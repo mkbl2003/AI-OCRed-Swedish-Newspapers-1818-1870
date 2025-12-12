@@ -1,0 +1,15 @@
+total_chrerrs 54763.0
+total_chrs 946292.0
+total_wrderrs 31788.0
+total_wrds 132526.0
+unaligned_gt_whitespaces 466.0
+unaligned_ocr_whitespaces 2668.0
+aligned_whitespaces 128777.0
+tWErrors 54633.0
+tWNoos 124838.0
+tWSubs 38603.0
+tWDels 7989.0
+tWIns 8041.0
+tWCount 172901.0
+cer 0.057871143368009026
+wer 0.2398623666299443
