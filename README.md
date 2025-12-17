@@ -49,4 +49,4 @@ OpenAI. (2025). *ChatGPT* (Version 5.1) [Large language model]. https://chat.ope
 
 Språkbanken Text. (2025). *Kubhist* [Data set]. Språkbanken Text. https://doi.org/10.23695/h7qd-bj40
 
-Språkbanken Text. (2020). *Swedish newspapers 1818-1870* (updated: 2020-05-26). [Data set]. Språkbanken Text. https://doi.org/10.23695/9bnq-xc7
+Språkbanken Text. (2020). *Swedish newspapers 1818-1870* (updated: 2020-05-26). [Data set]. Språkbanken Text. https://doi.org/10.23695/9bnq-xc71
